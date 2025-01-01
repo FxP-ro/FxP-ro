@@ -1,7 +1,7 @@
 ```
 📬 Contact Me
 
-- Discord : _fxp._.
+- Discord : https://discord.gg/jzmmCkrrU6
 - GitHub : https://github.com/FxP-ro
 
 💻 My Skills
