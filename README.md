@@ -1,4 +1,4 @@
-![Header](./FxP.png)
+![Header](./FxP.jpg)
 ```
 📬 Contact Me
 
