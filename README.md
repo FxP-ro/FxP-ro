@@ -1,4 +1,3 @@
-![Header](./1.jpg)
 ```
 📬 Contact Me
 
