@@ -36,4 +36,13 @@
 
     Work with us :
      - If you are interested in working with us on a project related to our skills, please contact us to discuss it further in private.
+
+💶 Donations
+
+    Messages :
+     - We will thank all those who donate, and we remind you that he is not obliged to make any! These donations will support us in our projects.
+
+    Wallet :
+    LTC Wallet :
+    BTC Wallet :  
 ```
